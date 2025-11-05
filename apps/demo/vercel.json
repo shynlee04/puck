@@ -13,8 +13,8 @@
     }
   },
   "env": {
-    "DEMO_PASSWORD": "@demo-password",
-    "NEXT_PUBLIC_DEMO_PASSWORD": "@public-demo-password"
+    "DEMO_PASSWORD": "puck-demo-2024",
+    "NEXT_PUBLIC_DEMO_PASSWORD": "puck-demo-2024"
   },
   "headers": [
     {
