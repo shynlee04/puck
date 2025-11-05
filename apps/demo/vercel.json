@@ -13,7 +13,6 @@
     }
   },
   "env": {
-    "NEXT_PUBLIC_PLAUSIBLE_DATA_DOMAIN": "@plausible-data-domain",
     "DEMO_PASSWORD": "@demo-password",
     "NEXT_PUBLIC_DEMO_PASSWORD": "@public-demo-password"
   },
