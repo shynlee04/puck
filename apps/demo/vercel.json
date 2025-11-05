@@ -4,14 +4,6 @@
   "installCommand": "cd ../../ && yarn install",
   "framework": "nextjs",
   "regions": ["iad1"],
-  "functions": {
-    "apps/demo/app/[...puckPath]/route.js": {
-      "maxDuration": 30
-    },
-    "apps/demo/app/custom-ui/[...puckPath]/route.js": {
-      "maxDuration": 30
-    }
-  },
   "env": {
     "DEMO_PASSWORD": "puck-demo-2024",
     "NEXT_PUBLIC_DEMO_PASSWORD": "puck-demo-2024"
