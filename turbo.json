@@ -7,7 +7,9 @@
     "NEXT_PUBLIC_IS_CANARY",
     "VERCEL_GIT_COMMIT_REF",
     "NEXT_PUBLIC_BASE_URL",
-    "NODE_ENV"
+    "NODE_ENV",
+    "DEMO_PASSWORD",
+    "NEXT_PUBLIC_DEMO_PASSWORD"
   ],
   "tasks": {
     "build": {
