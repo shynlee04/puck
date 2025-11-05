@@ -1,7 +1,7 @@
 {
-  "buildCommand": "cd ../../ && yarn build:demo",
-  "outputDirectory": "apps/demo/.next",
-  "installCommand": "cd ../../ && yarn install",
+  "buildCommand": "yarn build:demo",
+  "outputDirectory": ".next",
+  "installCommand": "yarn install",
   "framework": "nextjs",
   "regions": ["iad1"],
   "env": {
